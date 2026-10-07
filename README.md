@@ -1,10 +1,10 @@
-# Tech$$$ Games
+# rtlucht.github.io
 
-Landing page and how-to-play guides for two 8-bit browser games for IT people.
+Redirect page. The Tech$$$ Games hub moved to **Server Room Arcade** at https://serverroomarcade.com (source: `tekdollar-tools`, `sites/netgames`).
 
-- **Packet Quest** (network engineer): https://rtlucht.github.io/packet-quest/
-- **Uptime Quest** (system engineer): https://rtlucht.github.io/uptime-quest/
+The games themselves are still served from this account's GitHub Pages:
 
-Live: https://rtlucht.github.io/
+- Packet Quest: https://rtlucht.github.io/packet-quest/
+- Uptime Quest: https://rtlucht.github.io/uptime-quest/
 
-Static HTML, no build. The animated bills in the hero are drawn on a canvas; screenshots are in `img/`.
+`img/` keeps the current screenshots for anything that still links to them.
